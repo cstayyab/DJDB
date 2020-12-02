@@ -1,0 +1,9 @@
+name: djdb
+version: 0.1.0
+description: >-
+  Small JSON Database for Dart and Flutter.
+
+homepage: https://github.com/cstayyab/DJDB
+documentation: https://github.com/cstayyab/DJDB
+environment: 
+  sdk: '>=2.10.4 <3.0.0'
